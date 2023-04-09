@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Burcu</h1>
-- 🔭 I’m currently working on **as a physiotherapist.**
+- 🔭 I’m currently working on as **a physiotherapist.**
 
 - 🌱 I’m currently learning **React.**
 
